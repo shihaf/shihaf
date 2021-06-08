@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shihaf
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning 2nd year of B.tech IT in GCT,Coimbatore.
+- 🌱 I’m currently pursuing 2nd year of B.tech IT in GCT,Coimbatore.
 - 💞️ I’m looking to collaborate on software development
 - 📫 you can reach me through email shihafahil08@gmail.com 
